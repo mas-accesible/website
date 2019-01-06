@@ -3,36 +3,40 @@ skin: default # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
-  skip_links: "Skip links"
-  skip_primary_nav: "Skip to primary navigation"
-  skip_content: "Skip to content"
-  skip_footer: "Skip to footer"
+  skip_links: "Saltar a enlaces"
+  skip_primary_nav: "Saltar a navegación primaria"
+  skip_content: "Saltar al contenido"
+  skip_footer: "Saltar al pie de página"
   menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
-  email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
-  of: "of"
-  min_read: "min read"
-  present: "Present"
+  search: "Buscar"
+  site_search: "Búsqueda global"
+  results_found: "Resultados"
+  search_placeholder_text: "término de búsqueda..."
+  home: "inicio"
+  newer: "recientes"
+  older: "antiguos"
+  email: "Correo"
+  subscribe: "Susbríbete"
+  read_more: "Leer más"
+  posts: "Noticias"
+  page: "Páginas"
+  of: "de"
+  min_read: "min"
+  present: "presente"
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
-    weights: "400,400i,600,600i"
+  - name: "Nunito Sans"
+    weights: "300,300i,400,400i,600,600i,700,700i,800,800i,900"
+
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - about.md
-  - cv.md
+  - pg_acerca.md
+  - pg_servicios.md
+  - pg_aplicaciones.md
+  - pg_nosotros.md
+
