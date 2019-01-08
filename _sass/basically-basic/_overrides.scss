@@ -1,0 +1,57 @@
+/* más acesible sass overrides */
+
+p.jumbo{
+	font-size: 3em;
+}
+
+hr.divider{
+    margin: 4em 0 2em;
+    border-bottom: 1px solid #d7d8da;
+    border-top: 1px solid transparent;
+}
+
+.logo-app{
+	text-align: center;
+	img{
+		max-width: 50%;
+		height: auto;
+	}
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas: ". ." ". ." ". .";
+  grid-gap: 3em;
+  margin: 2em 0;
+
+  .col{
+  	.img-profile{
+		width: 100%;
+		height: auto;
+		border-radius: 50%;
+
+	}
+
+	.name{
+		margin-top: 1.5em;
+		min-height: 5em;
+		text-align: center;
+		font-size: 80%;
+		font-weight: bold;
+
+		.title{
+			font-weight: lighter;
+
+		}
+	}
+  }
+}
+
+@media only screen and (min-width: 960px) {
+	 .grid {
+	  grid-template-columns: 1fr 1fr 1fr 1fr;
+	  grid-template-rows: 1fr 1fr 1fr;
+	  grid-template-areas: ". . . ." ". . . ." ". . . .";
+	}
+}

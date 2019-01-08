@@ -8,6 +8,8 @@ tags:
 last_modified_at: 2018-05-30T14:25:52-05:00
 ---
 
+<h2>Más Accesibles en San Luis Potosí, México</h2>
+
 Nuestras amigas de México Maribel, Carmen y Lupita nos recibieron para establecer lazos de cooperación con la escuela de enfermería de la Universidad Autónoma de San Luis Potosí. 
 
 A continuación les compartimos un estracto de la entrevista radial que tuvimos 

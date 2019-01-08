@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="155px" viewBox="0 0 155 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D3FF" offset="0%"></stop>
+            <stop stop-color="#0074FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M69.9082064,111 L76.940012,88 L52,88 L52,111 L34,111 L34,88 L12,88 L12,71 L34,71 L34,48 L52,48 L52,71 L82.1374336,71 L94.0609302,32 L119.23168,32 L143.384404,111 L125.607644,111 L118.575838,88 L94.7167719,88 L87.6849662,111 L69.9082064,111 Z M106.646305,48.9802556 L99.9141935,71 L113.378416,71 L106.646305,48.9802556 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

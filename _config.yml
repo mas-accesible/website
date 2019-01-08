@@ -14,20 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: es-ES
-title: +accesible
+title: más accessible
 email: masaccesible@ead.cl
-description:
+description: 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: +accesible
+  name: +A
   twitter: masaccesible
-  picture:
 twitter_username: sermasaccesible
 github_username: masaccesible
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
+instagram_username: masaccesible
+logo: /assets/img/logo.svg
+search: true # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
