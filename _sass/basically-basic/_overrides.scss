@@ -1,7 +1,20 @@
 /* más acesible sass overrides */
 
 p.jumbo{
-	font-size: 3em;
+	font-size: 2.5em;
+}
+
+.button{
+	text-align: center;
+	a{
+		display: inline-block;
+		color: $background-color;
+		background-color: $accent-color;
+		padding: 1ex 3ex;
+		font-weight: bolder;
+		text-decoration: none;
+		border-radius: 3ex;
+	}
 }
 
 hr.divider{
@@ -10,7 +23,7 @@ hr.divider{
     border-top: 1px solid transparent;
 }
 
-.logo-app{
+.logo{
 	text-align: center;
 	img{
 		max-width: 50%;
@@ -22,7 +35,7 @@ hr.divider{
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   grid-template-areas: ". ." ". ." ". .";
-  grid-gap: 3em;
+  grid-gap: 2em;
   margin: 2em 0;
 
   .col{
@@ -30,17 +43,20 @@ hr.divider{
 		width: 100%;
 		height: auto;
 		border-radius: 50%;
-
+		filter: grayscale(100%);
 	}
 
 	.name{
 		margin-top: 1.5em;
 		min-height: 5em;
 		text-align: center;
-		font-size: 80%;
-		font-weight: bold;
+		font-size: .5em;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	    letter-spacing: .09ex;
 
 		.title{
+			text-transform: none;
 			font-weight: lighter;
 
 		}
@@ -53,5 +69,6 @@ hr.divider{
 	  grid-template-columns: 1fr 1fr 1fr 1fr;
 	  grid-template-rows: 1fr 1fr 1fr;
 	  grid-template-areas: ". . . ." ". . . ." ". . . .";
+	  grid-gap: 3em;
 	}
 }

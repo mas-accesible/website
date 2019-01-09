@@ -18,7 +18,7 @@ permalink: /nosotros
 	</div>	
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-vanessa.png" alt="Vanessa vega" class="img-profile">
-		<div class="name">Dr.a Vanessa Vega<br><span class='title'>Directora de la Escuela de Pedagogía PUCV</span></div>
+		<div class="name">Vanessa Vega<br><span class='title'>Directora de la Escuela de Pedagogía PUCV</span></div>
 	</div>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Katiushka" class="img-profile">
@@ -69,7 +69,7 @@ permalink: /nosotros
 		<div class="name">Pauiline Müller<br><span class='title'>Investigadora y Evaluadora</span></div>
 	</div>
 	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-polla.png" alt="Polla" class="img-profile">
+		<img src="{{ site.baseurl }}/assets/img/perfil-pamela.png" alt="Polla" class="img-profile">
 		<div class="name">Pamela Soto<br><span class='title'>Investigadora y Evaluadora</span></div>
 	</div>
 	<div class="col">
