@@ -7,8 +7,6 @@ tags:
   - PUCV
 ---
 
-<h2>IV Jornada de Reflexión en Discapacidad Intelectual y del Desarrollo: Autodeterminación e Inclusión Social</h2>
-
 El grupo de investigación inclusiva de la PUCV y la red REIDI, del cual formamos parte, llevó a cabo el pasado 30 de noviembre la IV Jornada de Reflexión en Discapacidad Intelectual y del Desarrollo: Autodeterminación e Inclusión Social. 
 
 <!-- 16:9 aspect ratio -->
