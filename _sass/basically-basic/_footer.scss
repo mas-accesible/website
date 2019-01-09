@@ -42,7 +42,7 @@
 .copyright {
   // font-family: $monospace-font-family;
   font-weight: 300;
-  @include fluid-type($min-vw, $max-vw, 8px, 14px);
+  @include fluid-type($min-vw, $max-vw, 10px, 15px);
 }
 
 
