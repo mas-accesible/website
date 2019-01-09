@@ -2,8 +2,26 @@
 
 p.jumbo{
 	@include fluid-type($min-vw, $max-vw, 24px, 48px);
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+
+  	a{
+		text-decoration: none;
+	}
 }
 
+.entry-content{
+	p{
+		text-align: justify;
+		-webkit-hyphens: auto;
+		-moz-hyphens: auto;
+		-ms-hyphens: auto;
+		hyphens: auto;
+	}
+}
 .button{
 	text-align: center;
 	a{

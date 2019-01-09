@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 lang: es-ES
 title: más accessible
 email: masaccesible@ead.cl
-description: 
+description: Consultora de accesibilidad congitiva especializada en capacitación, evaluación y recomendación para el diseño de servicios
 slogan: promoviendo espacios más inclusivos
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: +A
+  name: +A más accesible
   twitter: masaccesible
 twitter_username: sermasaccesible
 github_username: masaccesible

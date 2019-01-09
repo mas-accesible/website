@@ -32,8 +32,7 @@
   }
 
   img.site-logo{
-    float: right;
-    right: 0;
+    margin: -2px 2px 0 0;
     width: 2em;
     height: auto;
   }
@@ -42,6 +41,7 @@
 .copyright {
   // font-family: $monospace-font-family;
   font-weight: 300;
+  color: black;
   @include fluid-type($min-vw, $max-vw, 10px, 15px);
 }
 
