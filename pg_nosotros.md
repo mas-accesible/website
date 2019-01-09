@@ -14,7 +14,7 @@ permalink: /nosotros
 <div class ='grid'>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-paulina.png" alt="Paulina Carrasco" class="img-profile">
-		<div class="name">Paulina Carrasco<br><span class='title'>Educadora Diferencial DI<br>Gerente General +Accesible</span></div>
+		<div class="name">Paulina Carrasco<br><span class='title'>Educadora Diferencial DI<br><strong>Gerente General +Accesible</strong></span></div>
 	</div>	
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-vanessa.png" alt="Vanessa vega" class="img-profile">

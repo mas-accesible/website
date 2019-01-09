@@ -5,7 +5,7 @@
 .site-footer {
   margin-top: 4rem;
   color: tint($text-color, 40%);
-  font-size: 80%;
+  font-size: 85%;
 
   .inner {
     padding: 0 0.5rem;
@@ -30,8 +30,19 @@
       padding-left: 4rem;
     }
   }
+
+  img.site-logo{
+    float: right;
+    right: 0;
+    width: 2em;
+    height: auto;
+  }
 }
 
 .copyright {
-  font-family: $monospace-font-family;
+  // font-family: $monospace-font-family;
+  font-weight: 300;
+  @include fluid-type($min-vw, $max-vw, 8px, 14px);
 }
+
+

@@ -4,7 +4,9 @@
       {% if site.copyright %}
         {{ site.copyright | markdownify }}
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+        <p>&copy; {{ site.time | date: '%Y' }} <span class='brand'>{{ site.title }}</span> {% if site.slogan %} ~ <span class="slogan">{{ site.slogan }}</span> {% endif %}
+        {% if site.logo %}<img src="{{ site_logo }}" alt="{{ site.title }}" class="site-logo">{% endif %}
+        </p>
       {% endif %}
     </div>
   </div>

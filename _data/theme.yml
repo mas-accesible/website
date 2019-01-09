@@ -10,7 +10,7 @@ t:
   menu: "Menu"
   search: "Buscar"
   site_search: "Búsqueda global"
-  results_found: "Encontré esto..."
+  results_found: "Resultado(s):"
   search_placeholder_text: "escribe acá..."
   home: "+A"
   newer: "recientes"

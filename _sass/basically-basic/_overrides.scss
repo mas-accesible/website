@@ -1,7 +1,7 @@
 /* más acesible sass overrides */
 
 p.jumbo{
-	font-size: 2.5em;
+	@include fluid-type($min-vw, $max-vw, 24px, 48px);
 }
 
 .button{
@@ -31,26 +31,36 @@ hr.divider{
 	}
 }
 .grid {
+  
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-areas: ". ." ". ." ". .";
   grid-gap: 2em;
   margin: 2em 0;
+  grid-gap: 3em;
+
+    @include breakpoint($small) {
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-template-areas: ". . ." ". . ." ". . .";
+    }
+
+    @include breakpoint($large) {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-template-areas: ". . . ." ". . . ." ". . . .";
+    }
 
   .col{
   	.img-profile{
 		width: 100%;
 		height: auto;
 		border-radius: 50%;
-		filter: grayscale(100%);
 	}
 
 	.name{
 		margin-top: 1.5em;
 		min-height: 5em;
 		text-align: center;
-		font-size: .5em;
+		font-size: .7em;
 	    font-weight: 700;
 	    text-transform: uppercase;
 	    letter-spacing: .09ex;
@@ -64,11 +74,6 @@ hr.divider{
   }
 }
 
-@media only screen and (min-width: 960px) {
-	 .grid {
-	  grid-template-columns: 1fr 1fr 1fr 1fr;
-	  grid-template-rows: 1fr 1fr 1fr;
-	  grid-template-areas: ". . . ." ". . . ." ". . . .";
-	  grid-gap: 3em;
-	}
+.brand{
+	font-weight: 800;
 }
