@@ -8,7 +8,7 @@ p.jumbo{
 	-ms-hyphens: auto;
 	hyphens: auto;
 
-  	a{
+	a{
 		text-decoration: none;
 	}
 }
@@ -36,9 +36,9 @@ p.jumbo{
 }
 
 hr.divider{
-    margin: 4em 0 2em;
-    border-bottom: 1px solid #d7d8da;
-    border-top: 1px solid transparent;
+	margin: 4em 0 2em;
+	border-bottom: 1px solid #d7d8da;
+	border-top: 1px solid transparent;
 }
 
 .logo{
@@ -48,48 +48,50 @@ hr.divider{
 		height: auto;
 	}
 }
+
+
 .grid {
-  
-  display: grid;
-  grid-gap: 2em;
-  margin: 2em 0;
-  grid-gap: 3em;
 
-    @include breakpoint($small) {
+	display: grid;
+	grid-gap: 2em;
+	margin: 2em 0;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-areas: ". ." ". ." ". .";
+	grid-gap: 1em 3em;
+
+	@include breakpoint($small * 1.30) {
 		grid-template-columns: 1fr 1fr 1fr;
-		grid-template-rows: 1fr 1fr 1fr;
 		grid-template-areas: ". . ." ". . ." ". . .";
-    }
-
-    @include breakpoint($large) {
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		grid-template-rows: 1fr 1fr 1fr;
-		grid-template-areas: ". . . ." ". . . ." ". . . .";
-    }
-
-  .col{
-  	.img-profile{
-		width: 100%;
-		height: auto;
-		border-radius: 50%;
 	}
 
-	.name{
-		margin-top: 1.5em;
-		min-height: 5em;
-		text-align: center;
-		font-size: .7em;
-	    font-weight: 700;
-	    text-transform: uppercase;
-	    letter-spacing: .09ex;
+	@include breakpoint($medium) {
+		grid-gap: 1.2em 4em;
+	}
 
-		.title{
-			text-transform: none;
-			font-weight: lighter;
 
+	.col{
+		.img-profile{
+			width: 100%;
+			height: auto;
+			border-radius: 50%;
+		}
+
+		.name{
+			margin-top: 1.5em;
+			min-height: 5em;
+			text-align: center;
+			@include fluid-type($min-vw, $max-vw, 11px, 16px);
+			font-weight: 700;
+			text-transform: uppercase;
+
+			.title{
+				text-transform: none;
+				font-weight: lighter;
+				@include fluid-type($min-vw, $max-vw, 10px, 14px);
+			}
 		}
 	}
-  }
 }
 
 .brand{

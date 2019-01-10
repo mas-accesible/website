@@ -14,20 +14,20 @@ permalink: /nosotros
 <div class ='grid'>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-paulina.png" alt="Paulina Carrasco" class="img-profile">
-		<div class="name">Paulina Carrasco<br><span class='title'>Educadora Diferencial DI<br><strong>Gerente General +Accesible</strong></span></div>
+		<div class="name">Paulina Carrasco<br><span class='title'>Educadora Diferencial DI<br><strong>Gerente General</strong></span></div>
 	</div>	
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-vanessa.png" alt="Vanessa vega" class="img-profile">
-		<div class="name">Vanessa Vega<br><span class='title'>Directora de la Escuela de Pedagogía PUCV</span></div>
+		<div class="name">Vanessa Vega<br><span class='title'>Educadora Diferencial DI</span></div>
 	</div>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Katiushka" class="img-profile">
 		<div class="name">Kathyuska Díaz<br><span class='title'>Educadora Diferencial DI & DA</span></div>
 	</div>
-	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Katiushka" class="img-profile">
+	<!--<div class="col">
+		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Valesca" class="img-profile">
 		<div class="name">Valesca Aguilar<br><span class='title'>Educadora Diferencial DI & DA</span></div>
-	</div>
+	</div>-->
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-herbert.png" alt="Herbert Spencer" class="img-profile">
 		<div class="name">Herbert Spencer<br><span class='title'>Diseñador de Interacción</span></div>

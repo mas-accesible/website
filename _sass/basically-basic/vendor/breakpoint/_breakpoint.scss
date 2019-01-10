@@ -28,9 +28,7 @@ $breakpoint: () !default;
 @import "helpers";
 @import "parsers";
 @import "no-query";
-
 @import "respond-to";
-
 @import "legacy-settings";
 
 //////////////////////////////
@@ -102,7 +100,6 @@ $breakpoint: () !default;
       }
     }
   }
-
   @include private-breakpoint-reset-contexts();
 }
 
