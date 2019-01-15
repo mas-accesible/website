@@ -2,12 +2,13 @@
 
 p.jumbo{
 	@include fluid-type($min-vw, $max-vw, 24px, 48px);
-	text-align: justify;
+	text-align: left;
+	/*
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
 	hyphens: auto;
-
+    */
 	a{
 		text-decoration: none;
 	}
@@ -22,6 +23,7 @@ p.jumbo{
 		hyphens: auto;
 	}
 }
+
 .button{
 	text-align: center;
 	a{
@@ -96,4 +98,11 @@ hr.divider{
 
 .brand{
 	font-weight: 800;
+}
+
+.intro-title{
+	color: #00ABFF;
+	&:first-letter{
+		text-transform: uppercase;
+	}
 }
