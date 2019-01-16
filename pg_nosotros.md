@@ -72,10 +72,11 @@ permalink: /nosotros
 		<img src="{{ site.baseurl }}/assets/img/perfil-pamela.png" alt="Polla" class="img-profile">
 		<div class="name">Pamela Soto<br><span class='title'>Investigadora y Evaluadora</span></div>
 	</div>
+	<!--
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-polla.png" alt="Polla" class="img-profile">
 		<div class="name">Valeria <br><span class='title'>Investigadora y Evaluadora</span></div>
-	</div>
+	</div> -->
 </div>
 
 

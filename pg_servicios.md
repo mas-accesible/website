@@ -35,3 +35,6 @@ Nuestro servicio de evaluación se lleva adelante en conjunto con nuestro equipo
 ## Recomendación
 
 El servicio de recomendación se desprende del proceso de evaluación y constituye una hoja de ruta para la implementación de las modificaciones concretas que deben realizarse para logral el objetivo de tener un servicio accesible. Nuestro equipo elabora el plan de acción a corto, mediano y largo plazo. Junto con al informe de recomendación, nuestro equipo puede capacitar al personal para adaptar los procesos y comunicaciones al público, establecer nuevos formatos y ubicaciones de señaléticas o modificaciones a las transacciones existentes con impacto concreto en la experiencia de los usuarios finales, entre otras.
+
+![Accesibilidad Cognitiva de las transacciones]({{site.baseurl}}/assets/img/pictos-metro.png)
+<small>Ejemplo de señalética accesible con <strong>PICTOS</strong>, aplicado a Metro Valparaíso.</small>
