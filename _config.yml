@@ -20,7 +20,7 @@ email: masaccesible@ead.cl
 description: la consultora de accesibilidad congitiva
 slogan: promoviendo espacios más inclusivos
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://masaccesible.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://www.masaccesible.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: +A más accesible
   twitter: masaccesible
