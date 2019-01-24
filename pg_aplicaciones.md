@@ -26,9 +26,9 @@ Lanzamiento programado: <strong>Marzo 2019</strong>
 
 <div class='thanks'>
 
-<div class='logo'>
+<a class='logo' href='https://bloom-ux.com'>
 	<img src='{{ site.baseurl }}/assets/img/logo-bloom.svg' title='Bloom - User Experience'>
-</div>
+</a>
 
-<p contenteditable>Agradecemos al equipo de <a title='Bloom UX' href='https://bloom-ux.com'>bloom</a>quienes nos han ayudado a diseñar y a desarrollar estas aplicaciones y apoyos tecnológicos.</p>  
+<p>Un agradecimiento especial al equipo de <a title='Bloom UX' href='https://bloom-ux.com'>bloom</a>, quienes nos han ayudado a diseñar y a desarrollar estas aplicaciones y apoyos tecnológicos.</p>  
 </div>
