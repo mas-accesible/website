@@ -9,7 +9,7 @@ En **+Accesible** nos especializamos en construir los procesos para mejorar la a
 
 ## Capacitación
 
-Acompañamos a las organizaciones en el desarrollo conceptual de sus procesos de cara a los usuarios finales. Para esto realizamos talleres de capactiación en los conceptos fundamentales y buenas prácticas, aterrizando la teoría al contexto de la organización.
+Acompañamos a las organizaciones en el desarrollo conceptual de sus procesos de cara a los usuarios finales. Para esto realizamos talleres de capacitación en los conceptos fundamentales y buenas prácticas, aterrizando la teoría al contexto de la organización.
 
 
 ## Evaluación
@@ -34,7 +34,7 @@ Nuestro servicio de evaluación se lleva adelante en conjunto con nuestro equipo
 
 ## Recomendación
 
-El servicio de recomendación se desprende del proceso de evaluación y constituye una hoja de ruta para la implementación de las modificaciones concretas que deben realizarse para logral el objetivo de tener un servicio accesible. Nuestro equipo elabora el plan de acción a corto, mediano y largo plazo. Junto con al informe de recomendación, nuestro equipo puede capacitar al personal para adaptar los procesos y comunicaciones al público, establecer nuevos formatos y ubicaciones de señaléticas o modificaciones a las transacciones existentes con impacto concreto en la experiencia de los usuarios finales, entre otras.
+El servicio de recomendación se desprende del proceso de evaluación y constituye una hoja de ruta para la implementación de las modificaciones concretas que deben realizarse para lograr el objetivo de tener un servicio accesible. Nuestro equipo elabora el plan de acción a corto, mediano y largo plazo. Junto con el informe de recomendación, nuestro equipo puede capacitar a la organización para adaptar los procesos y comunicaciones al público, establecer nuevos formatos y ubicaciones de señaléticas o modificaciones a las transacciones existentes con impacto concreto en la accesibilidad, por lo tanto en la experiencia de los usuarios finales.
 
 ![Accesibilidad Cognitiva de las transacciones]({{site.baseurl}}/assets/img/pictos-metro.png)
 <small>Ejemplo de señalética accesible con <strong>PICTOS</strong>, aplicado a Metro Valparaíso.</small>
