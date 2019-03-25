@@ -22,7 +22,7 @@ permalink: /nosotros
 	</div>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Katiushka" class="img-profile">
-		<div class="name">Kathyuska Díaz<br><span class='title'>Educadora Diferencial DI & DA</span></div>
+		<div class="name">Kathiuska Díaz<br><span class='title'>Educadora Diferencial DI & DA</span></div>
 	</div>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-natalia.png" alt="Natalia" class="img-profile">
