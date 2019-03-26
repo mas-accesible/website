@@ -29,6 +29,10 @@ permalink: /nosotros
 		<div class="name">Natalia Cerda<br><span class='title'>Educadora Diferencial DI</span></div>
 	</div>
 	<div class="col">
+		<img src="{{ site.baseurl }}/assets/img/perfil-valesca.png" alt="Natalia" class="img-profile">
+		<div class="name">Valesca Aguila<br><span class='title'>Educadora Diferencial DI & DA</span></div>
+	</div>
+	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-herbert.png" alt="Herbert Spencer" class="img-profile">
 		<div class="name">Herbert Spencer<br><span class='title'>Diseñador de Interacción</span></div>
 	</div>
