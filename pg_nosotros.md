@@ -53,10 +53,6 @@ permalink: /nosotros
 		<div class="name">Gonzalo Osorio<br><span class='title'>Investigador y Evaluador</span></div>
 	</div>
 	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-javiera.png" alt="Javiera" class="img-profile">
-		<div class="name">Javiera Origoitía<br><span class='title'>Investigadora y Evaluadora</span></div>
-	</div>
-	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-marcelo.png" alt="Marcelo" class="img-profile">
 		<div class="name">Marcelo Escobar<br><span class='title'>Investigador y Evaluador</span></div>
 	</div>
@@ -76,11 +72,6 @@ permalink: /nosotros
 		<img src="{{ site.baseurl }}/assets/img/perfil-pamela.png" alt="Polla" class="img-profile">
 		<div class="name">Pamela Soto<br><span class='title'>Investigadora y Evaluadora</span></div>
 	</div>
-	<!--
-	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-polla.png" alt="Polla" class="img-profile">
-		<div class="name">Valeria <br><span class='title'>Investigadora y Evaluadora</span></div>
-	</div> -->
 </div>
 
 
