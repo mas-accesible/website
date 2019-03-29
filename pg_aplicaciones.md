@@ -22,7 +22,7 @@ permalink: /apps
 
 Ahora nuestro foco es la accesibilidad cognitiva de los espacios y servicios públicos. Con la aplicación <strong>SER + accesible</strong> queremos permitir a todos evaluar la accesibilidad cognitiva de los servicios de la ciudad.
 
-Lanzamiento programado: <strong>Marzo 2019</strong>
+Lanzamiento programado: <strong>Mayo 2019</strong>
 
 <div class='thanks'>
 
