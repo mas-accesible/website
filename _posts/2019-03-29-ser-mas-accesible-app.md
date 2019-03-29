@@ -1,11 +1,11 @@
 ---
 title: "SER + Accesible: Una aplicación para evaluar la accesibilidad cognitiva"
 categories:
-  - Aplicación
-  - Lanzamiento
+  - app
 tags:
   - accesibilidad
   - app
+  - lanzamiento
 last_modified_at: 2019-03-29T17:00:03-06:00
 ---
 
