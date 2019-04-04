@@ -1,9 +1,10 @@
 ---
-title: Herramientas que Hemos Creado
+title: herramientas
 layout: page
 permalink: /apps
 
 ---
+<h2>Algunas herramientas que hemos creado</h2>
 
 <div class='logo'>
 	<img src='{{ site.baseurl }}/assets/img/logo-win.svg' title='WIN: What I need' >
@@ -32,3 +33,10 @@ Lanzamiento programado: <strong>Mayo 2019</strong>. <a href='{{ site.baseurl }}/
 
 <p>Un agradecimiento especial al equipo de <a title='Bloom UX' href='https://bloom-ux.com'>bloom</a>, quienes nos han ayudado a diseñar y a desarrollar estas aplicaciones y apoyos tecnológicos.</p>  
 </div>
+
+<h3>Otros Recursos</h3>
+<p>Proyectos desarrollados en la <a href="http://pucv.cl">PUCV</a> disponibles para descarga:</p>
+<ol>
+	<li><a href="http://github.com/eadpucv/pictos">Pictos</a> es un sistema iconográfico desarrollado para la accesibilidad visual del paso-a-paso de las transacciones o tareas de los servicios públicos</li>
+	<li>La <a href="https://github.com/eadpucv/tipografia-hospital">Tipografía Hospital</a> corresponde a una familia tipográfica compuesta de una fuente y una iconografía especialmente diseñada para servicios de salud</li>
+</ol>
