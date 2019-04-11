@@ -1,5 +1,5 @@
 ---
-title: ¿qué es?
+title: ¿qué es +A?
 layout: about
 permalink: /acerca
 
