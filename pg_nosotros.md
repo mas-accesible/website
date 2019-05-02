@@ -21,10 +21,6 @@ permalink: /nosotros
 		<div class="name">Vanessa Vega<br><span class='title'>Educadora Diferencial DI</span></div>
 	</div>
 	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-katiushka.png" alt="Katiushka" class="img-profile">
-		<div class="name">Kathiuska Díaz<br><span class='title'>Educadora Diferencial DI & DA</span></div>
-	</div>
-	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-natalia.png" alt="Natalia" class="img-profile">
 		<div class="name">Natalia Cerda<br><span class='title'>Educadora Diferencial DI</span></div>
 	</div>
@@ -43,10 +39,6 @@ permalink: /nosotros
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-caro.png" alt="Carolina" class="img-profile">
 		<div class="name">Carolina Lucero<br><span class='title'>Investigadora y Evaluadora</span></div>
-	</div>
-	<div class="col">
-		<img src="{{ site.baseurl }}/assets/img/perfil-fernanda.png" alt="Fernanda" class="img-profile">
-		<div class="name">Fernanda Velásquez<br><span class='title'>Investigadora y Evaluadora</span></div>
 	</div>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-gonzalo.png" alt="Gonzalo" class="img-profile">
