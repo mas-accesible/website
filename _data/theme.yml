@@ -36,6 +36,5 @@ google_fonts:
 navigation_pages:
   - pg_acerca.md
   - pg_servicios.md
-  - pg_aplicaciones.md
   - pg_nosotros.md
 
